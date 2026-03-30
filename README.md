@@ -58,10 +58,6 @@ Credentials:
 
 Username: PELEKAS
 PIN: 5425
-⚠️ Limitations
-Fixed maximum accounts (1600)
-No encryption for PINs
-Windows-specific functions (conio.h, system("cls"))
 📈 Possible Improvements
 Replace binary files with a database
 Add encryption for sensitive data
